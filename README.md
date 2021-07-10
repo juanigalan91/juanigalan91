@@ -28,7 +28,7 @@ You can check it out [here](https://github.com/juanigalan91/monorepolyser)
 #### Covid Uruguay
 The COVID-19 pandemic obviously had an impact on all countries, but living abroad, away from your country during a moment of crisis can be tough. For me, I wanted to at least do something to help out in any way I can. That is why I created a website (using TS, React and Netflify) that grouped all the different donations that could be made during the pandemic in Uruguay in order to provide more visibility to those in need.
 
-You can check the repo [here](https://github.com/juanigalan91/monorepolyser)
+You can check the repo [here](https://github.com/juanigalan91/monorepolyser) or the website [here](https://donaciones-covid-uruguay.tech/)
 
 ### Quick Links
 Here are some quick links about me if you want to reach out!
